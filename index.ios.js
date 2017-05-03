@@ -8,5 +8,6 @@ import {
 } from 'react-native';
 import App from './App'
 import ReduxExampleApp from './AppWithRedux'
+import ExampleApp from './AppForExample'
 
-AppRegistry.registerComponent('navigation', () => ReduxExampleApp);
+AppRegistry.registerComponent('navigation', () => ExampleApp);
