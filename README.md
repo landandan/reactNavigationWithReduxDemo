@@ -9,3 +9,6 @@ npm i
 react-native link  
 npm start
 ```
+
+### react-navigation with redux
+![react-navigation with redux](./src/gif/reactnavigationwithredux.gif)
